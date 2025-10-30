@@ -1,0 +1,9 @@
+# Ignore build and VS files
+bin/
+obj/
+.vs/
+*.exe
+*.dll
+*.pdb
+*.cache
+publish/
